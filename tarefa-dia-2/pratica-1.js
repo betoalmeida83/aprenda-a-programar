@@ -8,3 +8,8 @@ let idade
 idade = "39 anos"
 let viagemdosonho
 viagemdosonho = "California"
+console.log(nome)
+console.log(email)
+console.log(profissao)
+console.log(idade)
+console.log(viagemdosonho)
