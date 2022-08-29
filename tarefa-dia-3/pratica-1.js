@@ -1,7 +1,11 @@
-let contador = 1
+let multiplicador = 10
+let n = 10
+let i = 1
 
-while (contador <= 9) {
-    console.log(contador)
-    contador = contador + 1
+while (i <= n) {
+    let resultado = multiplicador * 1
+    let textodeexibicao = `${multiplicador} x ${i} = ${multiplicador * 1}`
+    console.log(textodeexibicao)
+    i++
 }
 
